@@ -15,8 +15,9 @@ class App{
 //fun main(){
 //    println("");
 //}
-    fun main(num:Array<String>){
-        println("xxxxxxxx");
-        var vva = 0; //后台会变为基本数据类型。
-    }
+}
+
+fun main(num:Array<String>){
+    println("xxxxxxxx");
+    var vva = 0; //后台会变为基本数据类型。
 }
