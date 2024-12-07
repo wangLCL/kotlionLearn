@@ -22,6 +22,6 @@ fun main() {
     var re = ::add
     re(1.0,4.0)
 
-    
+
 }
 
