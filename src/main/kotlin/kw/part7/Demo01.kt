@@ -41,4 +41,10 @@ fun main() {
     println("从索引为15位置开始，从后往前查找e字符，第一次找到它所在索引:"+lastChar2)
     println("从索引为5位置开始，从前往后查找ing字符串，第一次找到它所在索引:"+firstStr2)
     println("从索引为5位置开始，从后往前查找ing字符串，第一次找到它所在索引:"+lastStr2)
+
+    var yStr = """
+        heoo
+        sjfff
+    """.trimIndent()
+    println(yStr)
 }

@@ -41,10 +41,12 @@ fun main() {
     str = "xy"
     testNullAss(str)
     str = null
-    testNullAss(str)
+//    testNullAss(str)
 
 //    Elvis
-
+    var eName:String? = null
+    var en = eName ?: "ao" //相当于给默认值吧
+    println(en)
 }
 
 
