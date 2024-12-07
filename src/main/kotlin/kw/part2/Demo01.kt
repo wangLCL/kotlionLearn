@@ -1,6 +1,12 @@
 package org.example.kw.part2
 
 fun main() {
+//    语句
+    var a1 :Int = 10
+    var a2 : Int
+
+
+
     val score = 60
     val result = if (score > 100)  "good" else "rbs"
 //      必须有else
@@ -40,6 +46,7 @@ fun main() {
 //    Elvis
 
 }
+
 
 fun testNullAss(str: String?) {
     val end = str!!.replace("x","")
