@@ -5,18 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5ef85f9-0000-4c84-8f39-4a2dea88e560" name="更改" comment="整理">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part2/TypeConvert.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part3/Demo03.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part3/VarPar.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part7/CreateString.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part10/MeijuDemo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part15/Animal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part15/App.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part15/KuozhanDemo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part15/LateintDemo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part15/LayDemo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part15/WeiTuoDemo.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/2.第二章 变量、常量和类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/2.第二章 变量、常量和类型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/3.第三章 条件语句.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/3.第三章 条件语句.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/4.第四章 函数.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/4.第四章 函数.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/6.第六章 null安全与异常.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/6.第六章 null安全与异常.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/7.第七章 字符串.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/7.第七章 字符串.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part2/Demo01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part2/Demo01.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part7/Demo01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part7/Demo01.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part10/GzDemo1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part10/GzDemo1.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,23 +51,9 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.VarParKt">
-    <configuration name="CreateStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kw.part7.CreateStringKt" />
-      <module name="Learn.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo01Kt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.kw.part2.Demo01Kt" />
-      <module name="Learn.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo01Kt (3)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.kw.part7.Demo01Kt" />
+  <component name="RunManager" selected="Kotlin.KuozhanDemoKt">
+    <configuration name="AnimalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kw.part15.AnimalKt" />
       <module name="Learn.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,6 +61,20 @@
     </configuration>
     <configuration name="Demo03Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kw.part3.Demo03Kt" />
+      <module name="Learn.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KuozhanDemoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kw.part15.KuozhanDemoKt" />
+      <module name="Learn.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LayDemoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kw.part15.LayDemoKt" />
       <module name="Learn.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.KuozhanDemoKt" />
+        <item itemvalue="Kotlin.LayDemoKt" />
+        <item itemvalue="Kotlin.AnimalKt" />
         <item itemvalue="Kotlin.VarParKt" />
         <item itemvalue="Kotlin.Demo03Kt" />
-        <item itemvalue="Kotlin.CreateStringKt" />
-        <item itemvalue="Kotlin.Demo01Kt (3)" />
-        <item itemvalue="Kotlin.Demo01Kt (2)" />
       </list>
     </recent_temporary>
   </component>

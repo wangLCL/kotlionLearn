@@ -9,7 +9,7 @@ class GzDemo1 constructor(_name:String) {
 
 }
 
-class GzDemo02 constructor(name:String){
+class GzDemo02  constructor(var name:String){
 
 }
 
