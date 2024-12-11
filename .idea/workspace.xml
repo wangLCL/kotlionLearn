@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5ef85f9-0000-4c84-8f39-4a2dea88e560" name="更改" comment="整理">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part10/MeijuDemo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part15/Animal.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part15/App.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part15/KuozhanDemo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part15/LateintDemo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part15/LayDemo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part15/WeiTuoDemo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part15/MJDemo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part16/MfDmeo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part16/People.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part17/CirShape.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part17/People.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part17/Shape.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part17/SquareShape.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part17/Student.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part10/GzDemo1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part10/GzDemo1.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
