@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5ef85f9-0000-4c84-8f39-4a2dea88e560" name="更改" comment="整理">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part15/MJDemo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part16/MfDmeo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part16/People.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part17/CirShape.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part17/People.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part17/Shape.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part17/SquareShape.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part17/Student.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/16.函数编程.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
