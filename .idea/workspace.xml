@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5ef85f9-0000-4c84-8f39-4a2dea88e560" name="更改" comment="保存">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part18/Demo03.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part18/Demo04.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part18/Demo2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part19/FxDemo01.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part19/IQueue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part19/Queue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part19/Sx.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part20/ArrayDemo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part21/FilterDemo.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part18/Demo01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part18/Demo01.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/19.泛型.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/19.泛型.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/20.数据容器.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/20.数据容器.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/21。函数式编程.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,16 +52,23 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.KuozhanDemoKt">
-    <configuration name="AnimalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kw.part15.AnimalKt" />
+  <component name="RunManager" selected="Kotlin.FilterDemoKt">
+    <configuration name="ArrayDemoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kw.part20.ArrayDemoKt" />
       <module name="Learn.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo03Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kw.part3.Demo03Kt" />
+    <configuration name="FilterDemoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kw.part21.FilterDemoKt" />
+      <module name="Learn.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FxDemo01Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kw.part19.FxDemo01Kt" />
       <module name="Learn.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,20 +88,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarParKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kw.part3.VarParKt" />
-      <module name="Learn.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FilterDemoKt" />
+        <item itemvalue="Kotlin.ArrayDemoKt" />
+        <item itemvalue="Kotlin.FxDemo01Kt" />
         <item itemvalue="Kotlin.KuozhanDemoKt" />
         <item itemvalue="Kotlin.LayDemoKt" />
-        <item itemvalue="Kotlin.AnimalKt" />
-        <item itemvalue="Kotlin.VarParKt" />
-        <item itemvalue="Kotlin.Demo03Kt" />
       </list>
     </recent_temporary>
   </component>
