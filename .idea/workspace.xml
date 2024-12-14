@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5ef85f9-0000-4c84-8f39-4a2dea88e560" name="更改" comment="保存">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part19/FxDemo01.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part19/IQueue.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part19/Queue.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part19/Sx.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part20/ArrayDemo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/part21/FilterDemo.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/19.泛型.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/19.泛型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/20.数据容器.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/20.数据容器.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/21。函数式编程.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
