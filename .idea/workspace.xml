@@ -4,56 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5ef85f9-0000-4c84-8f39-4a2dea88e560" name="更改" comment="保存">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/zt/string/StringDemo01.kt" afterDir="false" />
+    <list default="true" id="d5ef85f9-0000-4c84-8f39-4a2dea88e560" name="更改" comment="增加案例">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part22/Demo01.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part23/Demo01.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/zt/demo/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/zt/demo/People.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/zt/map/MapDemo.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/doc/21.函数式编程.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/21.函数式编程.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/ful2/Demo01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/ful2/Demo01.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/mingming/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/mingming/App.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/mingming/Demo01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/mingming/Demo01.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part1/DemoApp1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part1/DemoApp1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part10/Animal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part10/Animal.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part10/AnimalPro.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part10/AnimalPro.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part10/ByUserExample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part10/ByUserExample.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part10/DataDemo2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part10/DataDemo2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part10/GzDemo1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part10/GzDemo1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part10/LayUse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part10/LayUse.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part10/MeijuDemo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part10/MeijuDemo.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part10/ObjectDemo1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part10/ObjectDemo1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part10/SingletonDemo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part10/SingletonDemo.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part15/Animal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part15/Animal.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part15/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part15/App.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part15/KuozhanDemo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part15/KuozhanDemo.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part15/LateintDemo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part15/LateintDemo.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part15/LayDemo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part15/LayDemo.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part15/MJDemo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part15/MJDemo.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part15/WeiTuoDemo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part15/WeiTuoDemo.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part16/MfDmeo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part16/MfDmeo.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part16/People.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part16/People.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part17/CirShape.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part17/CirShape.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part17/People.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part17/People.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part17/Shape.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part17/Shape.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part17/SquareShape.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part17/SquareShape.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part17/Student.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part17/Student.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part18/Demo01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part18/Demo01.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part18/Demo03.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part18/Demo03.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part18/Demo04.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part18/Demo04.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part18/Demo2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part18/Demo2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part19/FxDemo01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part19/FxDemo01.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part19/IQueue.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part19/IQueue.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part19/Queue.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part19/Queue.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part19/Sx.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part19/Sx.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part2/Demo01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part2/Demo01.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part2/TypeConvert.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part2/TypeConvert.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part20/ArrayDemo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/ArrayDemo.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part21/FilterDemo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part21/FilterDemo.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part3/Demo01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part3/Demo01.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part3/Demo02.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part3/Demo02.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part3/Demo03.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part3/Demo03.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part3/VarPar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part3/VarPar.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part4/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part4/App.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part7/CreateString.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part7/CreateString.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/part7/Demo01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part7/Demo01.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/22.异常处理.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/22.异常处理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/23.线程.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/23.线程.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/base/part21/FilterDemo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part21/FilterDemo.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,9 +57,29 @@
       <recent name="D:\kotlionLearn\kotlionLearn\Learn\src\main\kotlin\kw\base" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.FilterDemoKt (1)">
-    <configuration name="ArrayDemoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kw.base.ArrayDemoKt" />
+  <component name="RunManager" selected="Kotlin.Demo01Kt (1)">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kw.zt.demo.App" />
+      <module name="Learn.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kw.zt.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo01Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kw.base.part23.Demo01Kt" />
+      <module name="Learn.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo01Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kw.base.part22.Demo01Kt" />
       <module name="Learn.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,22 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilterDemoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kw.part21.FilterDemoKt" />
-      <module name="Learn.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FxDemo01Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kw.part19.FxDemo01Kt" />
-      <module name="Learn.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KuozhanDemoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kw.part15.KuozhanDemoKt" />
+    <configuration name="MapDemoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kw.zt.map.MapDemoKt" />
       <module name="Learn.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -134,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Demo01Kt (1)" />
+        <item itemvalue="Kotlin.Demo01Kt" />
         <item itemvalue="Kotlin.FilterDemoKt (1)" />
-        <item itemvalue="Kotlin.FilterDemoKt" />
-        <item itemvalue="Kotlin.ArrayDemoKt" />
-        <item itemvalue="Kotlin.FxDemo01Kt" />
-        <item itemvalue="Kotlin.KuozhanDemoKt" />
+        <item itemvalue="Kotlin.MapDemoKt" />
+        <item itemvalue="应用程序.App" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734135077595</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="增加案例">
+      <option name="closed" value="true" />
+      <created>1734146368154</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1734146368154</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,6 +175,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="整理" />
     <MESSAGE value="保存" />
-    <option name="LAST_COMMIT_MESSAGE" value="保存" />
+    <MESSAGE value="增加案例" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加案例" />
   </component>
 </project>
