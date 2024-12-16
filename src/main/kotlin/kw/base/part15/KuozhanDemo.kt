@@ -9,7 +9,7 @@ class Student{
 }
 
 
-var Student.desc: String
+var StudentClass.desc: String
     get(){return ""}
     set(value){
         println(value)
@@ -22,7 +22,7 @@ fun main() {
     println(end)
 
 
-    var stu = Student()
+    var stu = StudentClass("")
     stu.desc = "xx"
     println(stu.desc)
 }
