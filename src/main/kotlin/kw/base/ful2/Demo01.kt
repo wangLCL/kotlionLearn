@@ -1,11 +1,11 @@
 package org.example.kw.ful2
 
 fun add(a:Double,b:Double):Double{
-    return a + b
+    return a
 }
 
 fun minus(a:Double,b:Double):Double{
-    return a - b
+    return a
 }
 
 
