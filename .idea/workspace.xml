@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5ef85f9-0000-4c84-8f39-4a2dea88e560" name="更改" comment="增加案">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part5/Demo01.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/2.第二章 变量、常量和类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/2.第二章 变量、常量和类型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/24.协程.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/24.协程.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/3.第三章 条件语句.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/3.第三章 条件语句.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/4.第四章 函数.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/4.第四章 函数.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/6.第六章 null安全与异常.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/6.第六章 null安全与异常.md" afterDir="false" />
-    </list>
+    <list default="true" id="d5ef85f9-0000-4c84-8f39-4a2dea88e560" name="更改" comment="增加案" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
