@@ -1,6 +1,8 @@
 package kw.test
 
+import kw.zt.demo.App
 import org.example.kw.ful2.add
+import java.util.Objects
 
 fun main() {
 //    add(1.0,2.0)
@@ -20,4 +22,33 @@ fun main() {
         eat()
     }
 
+//    println(cc())
+
+
+    cc({
+        //lambda 表达式
+            it,n-> {
+
+                println("xx")
+            }
+    }
+    )
+
 }
+
+/**
+ * 方法作为参数
+ */
+fun cc(block: (it:Int,a:Int) -> Unit) {
+//    TODO("Not yet implemented")
+    println("------------")
+    block(10,30)
+}
+
+//fun cc():Int = synchronized(Any()){
+//    return 3;
+//}
+
+//fun cc():Int{
+//    return 3;
+//}

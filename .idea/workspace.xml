@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5ef85f9-0000-4c84-8f39-4a2dea88e560" name="更改" comment="保存">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part15/CatAnimal.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part15/StudentClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part20/ListDemo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part9/Demo01.kt" afterDir="false" />
+    <list default="true" id="d5ef85f9-0000-4c84-8f39-4a2dea88e560" name="更改" comment="x">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/test/associateBy/AssociateByTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/15.面向对象.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/15.面向对象.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/16.继承多态.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/16.继承多态.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/base/part15/KuozhanDemo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part15/KuozhanDemo.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/base/part7/Demo02.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part7/Demo02.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/test/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/test/App.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +22,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Class" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -49,44 +43,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.Build kotlionLearn.executor": "Run",
-    "Kotlin.AppKt.executor": "Run",
-    "Kotlin.CatAnimalKt.executor": "Run",
-    "Kotlin.Demo01Kt.executor": "Run",
-    "Kotlin.Demo02Kt.executor": "Run",
-    "Kotlin.DemoApp1Kt.executor": "Run",
-    "Kotlin.ListDemoKt.executor": "Run",
-    "Kotlin.StudentClassKt.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build kotlionLearn.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.AppKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.CatAnimalKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Demo01Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Demo02Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.DemoApp1Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ListDemoKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.StudentClassKt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin.CatAnimalKt">
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\kotlionLearn\kotlionLearn\Learn\src\main\kotlin\kw\test\associateBy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.AppKt">
+    <configuration name="AppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kw.test.AppKt" />
+      <module name="Learn.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssociateByTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kw.test.associateBy.AssociateByTestKt" />
+      <module name="Learn.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CatAnimalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kw.base.part15.CatAnimalKt" />
-      <module name="kotlionLearn.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo01Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kw.base.part9.Demo01Kt" />
-      <module name="kotlionLearn.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo02Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kw.part7.Demo02Kt" />
       <module name="kotlionLearn.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,19 +106,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Kotlin.AppKt" />
+      <item itemvalue="Kotlin.AssociateByTestKt" />
       <item itemvalue="Kotlin.CatAnimalKt" />
-      <item itemvalue="Kotlin.Demo01Kt" />
-      <item itemvalue="Kotlin.Demo02Kt" />
       <item itemvalue="Kotlin.ListDemoKt" />
       <item itemvalue="Kotlin.StudentClassKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.AppKt" />
+        <item itemvalue="Kotlin.AssociateByTestKt" />
         <item itemvalue="Kotlin.CatAnimalKt" />
         <item itemvalue="Kotlin.StudentClassKt" />
         <item itemvalue="Kotlin.ListDemoKt" />
-        <item itemvalue="Kotlin.Demo01Kt" />
-        <item itemvalue="Kotlin.Demo02Kt" />
       </list>
     </recent_temporary>
   </component>
