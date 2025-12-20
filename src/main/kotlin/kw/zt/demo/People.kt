@@ -10,6 +10,8 @@ class People(private var name:String,private var age:Int){
 
     }
 
+
+
     var publicName:String = this.name
         set(value){
             field = value

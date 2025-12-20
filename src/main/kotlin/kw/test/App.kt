@@ -1,13 +1,9 @@
 package kw.test
 
-import kw.zt.demo.App
-import org.example.kw.ful2.add
-import java.util.Objects
-
 fun main() {
 //    add(1.0,2.0)
     val ed = (arrayOf(128, 64, 32, 16).map { "libgdx$it.png" }.toTypedArray())
-    for (item in ed){
+    for (item in ed) {
         println(item)
     }
 
@@ -18,7 +14,7 @@ fun main() {
     /**
      * with可以直接调用方法
      */
-    with(p){
+    with(p) {
         eat()
     }
 
@@ -27,10 +23,11 @@ fun main() {
 
     cc({
         //lambda 表达式
-            it,n-> {
+            it, n ->
+        {
 
-                println("xx")
-            }
+            println("xx")
+        }
     }
     )
 
@@ -39,10 +36,10 @@ fun main() {
 /**
  * 方法作为参数
  */
-fun cc(block: (it:Int,a:Int) -> Unit) {
+fun cc(block: (it: Int, a: Int) -> Unit) {
 //    TODO("Not yet implemented")
     println("------------")
-    block(10,30)
+    block(10, 30)
 }
 
 //fun cc():Int = synchronized(Any()){
