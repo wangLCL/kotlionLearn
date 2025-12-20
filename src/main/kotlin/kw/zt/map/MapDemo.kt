@@ -8,4 +8,26 @@ fun main() {
         println(""+entry.key +"  --  "+entry.value)
     }
 
+
+    //不可修改
+    val map = mapOf("a" to "a","b" to "b")
+    println(map["a"])
+    println(map.get("a"))
+
+
+//    map["a"] = "xx"
+
+    //可修改的
+    var maps = mutableMapOf("a" to 3,"b" to 4)
+
+    println(maps["a"])
+
+    maps["a"]  = 6
+
+    println(maps["a"])
+
+    for ((key,value ) in maps){
+        println("$key"+"  "+"$value")
+    }
+
 }
