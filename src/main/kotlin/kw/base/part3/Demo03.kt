@@ -3,8 +3,8 @@ package kw.base.part3
 fun main() {
 //    whileUse()
 //    dowhile()
-//    fordemo()
-    rangeUse()
+    fordemo()
+//    rangeUse()
 }
 
 fun rangeUse() {
@@ -17,9 +17,10 @@ fun fordemo() {
     for (num in 1..9){
         println(num)
     }
-
-    for (x in 1 until 5)
+//    [start,end)
+    for (x in 1 until 5){
         println(x)
+    }
 
 }
 
