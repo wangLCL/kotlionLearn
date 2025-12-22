@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d5ef85f9-0000-4c84-8f39-4a2dea88e560" name="更改" comment="保存">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/base/part5/Demo01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part5/Demo01.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/2.第二章 变量、常量和类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/2.第二章 变量、常量和类型.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/base/part1/DemoApp1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part1/DemoApp1.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +97,7 @@
       <command value="gradle clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Demo01Kt (1)">
+  <component name="RunManager" selected="Kotlin.DemoApp1Kt">
     <configuration name="Learn [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -119,13 +120,6 @@
       <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="AppRunKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kw.base.part30.AppRunKt" />
-      <module name="kotlionLearn.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Demo01Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.kw.part2.Demo01Kt" />
       <module name="kotlionLearn.main" />
@@ -140,6 +134,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DemoApp1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.kw.part1.DemoApp1Kt" />
+      <module name="kotlionLearn.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StudentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kw.base.part31.StudentKt" />
       <module name="kotlionLearn.main" />
@@ -149,18 +150,18 @@
     </configuration>
     <list>
       <item itemvalue="Gradle.Learn [clean]" />
+      <item itemvalue="Kotlin.DemoApp1Kt" />
       <item itemvalue="Kotlin.Demo01Kt (1)" />
       <item itemvalue="Kotlin.Demo01Kt" />
       <item itemvalue="Kotlin.StudentKt" />
-      <item itemvalue="Kotlin.AppRunKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.DemoApp1Kt" />
         <item itemvalue="Kotlin.Demo01Kt (1)" />
         <item itemvalue="Kotlin.StudentKt" />
         <item itemvalue="Kotlin.Demo01Kt" />
         <item itemvalue="Gradle.Learn [clean]" />
-        <item itemvalue="Kotlin.AppRunKt" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766234464724</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="保存">
+      <option name="closed" value="true" />
+      <created>1766321246524</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1766321246524</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
