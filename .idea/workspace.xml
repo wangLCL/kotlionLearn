@@ -1,17 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
+    <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5ef85f9-0000-4c84-8f39-4a2dea88e560" name="更改" comment="保存">
+    <list default="true" id="d5ef85f9-0000-4c84-8f39-4a2dea88e560" name="更改" comment="x">
+      <change afterPath="$PROJECT_DIR$/doc/basedoc/35.枚举.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/附录/1.附录一.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part15/DataKeyWords.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part35/App.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part35/People.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/base/part5/Demo01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part5/Demo01.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/0.简介.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/0.简介.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/1.Kotlin应用开发初体验.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/1.Kotlin应用开发初体验.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/10.第十章 List与Set.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/10.第十章 List与Set.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/11.第十一章 Map.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/11.第十一章 Map.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/12.第十二章 类.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/12.第十二章 类.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/13.命令行编程式.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/13.命令行编程式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/14.运算符.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/14.运算符.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/15.面向对象.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/15.面向对象.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/16.继承多态.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/16.继承多态.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/17.抽象类与接口.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/17.抽象类与接口.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/18.函数编程.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/18.函数编程.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/19.泛型.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/19.泛型.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/2.第二章 变量、常量和类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/2.第二章 变量、常量和类型.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/20.数据容器.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/20.数据容器.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/21.函数式编程.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/21.函数式编程.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/22.异常处理.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/22.异常处理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/23.线程.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/23.线程.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/24.协程.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/24.协程.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/25.IO操作.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/25.IO操作.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/26.网络编程.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/26.网络编程.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/27.反射.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/27.反射.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/28.注解.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/28.注解.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/29.扩展.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/29.扩展.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/3.第三章 条件语句.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/3.第三章 条件语句.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/30.java和kotlin互操作.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/30.java和kotlin互操作.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/31.Object.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/31.Object.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/32.内联.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/32.内联.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/33.标准库函数.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/33.标准库函数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/4.第四章 函数.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/4.第四章 函数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/5.第五章 匿名函数 函数类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/5.第五章 匿名函数 函数类型.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/6.第六章 null安全与异常.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/6.第六章 null安全与异常.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/7.第七章 字符串.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/7.第七章 字符串.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/8.第八章 数.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/8.第八章 数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/9.标准库函数.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/9.标准库函数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/基本语法.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/基本语法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/附录1：编码规范.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/附录1：编码规范.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -62,31 +106,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.Build kotlionLearn.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.AppKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.CatAnimalKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Demo01Kt (1).executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Demo01Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Demo02Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.DemoApp1Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.ListDemoKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.StudentClassKt.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/java/kotlionLearn&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;问题&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build kotlionLearn.executor": "Run",
+    "Kotlin.AppKt.executor": "Run",
+    "Kotlin.CatAnimalKt.executor": "Run",
+    "Kotlin.DataKeyWordsKt.executor": "Run",
+    "Kotlin.Demo01Kt (1).executor": "Run",
+    "Kotlin.Demo01Kt.executor": "Run",
+    "Kotlin.Demo02Kt.executor": "Run",
+    "Kotlin.DemoApp1Kt.executor": "Run",
+    "Kotlin.ListDemoKt.executor": "Run",
+    "Kotlin.StudentClassKt.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/java/kotlionLearn",
+    "project.structure.last.edited": "问题",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\github\kotlionLearn\doc\basedoc" />
       <recent name="D:\kotlionLearn\kotlionLearn\Learn\src\main\kotlin\kw\base\part29\extendm" />
       <recent name="D:\kotlionLearn\kotlionLearn\Learn\src\main\kotlin\kw\test\associateBy" />
     </key>
@@ -96,31 +146,16 @@
       <command value="gradle clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Demo01Kt (1)">
-    <configuration name="Learn [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="clean" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>false</RunAsTest>
-      <method v="2" />
+  <component name="RunManager" selected="Kotlin.AppKt">
+    <configuration name="AppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kw.base.part35.AppKt" />
+      <module name="kotlionLearn.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="AppRunKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kw.base.part30.AppRunKt" />
+    <configuration name="DataKeyWordsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kw.base.part15.DataKeyWordsKt" />
       <module name="kotlionLearn.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -148,19 +183,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Gradle.Learn [clean]" />
+      <item itemvalue="Kotlin.AppKt" />
+      <item itemvalue="Kotlin.DataKeyWordsKt" />
       <item itemvalue="Kotlin.Demo01Kt (1)" />
       <item itemvalue="Kotlin.Demo01Kt" />
       <item itemvalue="Kotlin.StudentKt" />
-      <item itemvalue="Kotlin.AppRunKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.AppKt" />
+        <item itemvalue="Kotlin.DataKeyWordsKt" />
         <item itemvalue="Kotlin.Demo01Kt (1)" />
         <item itemvalue="Kotlin.StudentKt" />
         <item itemvalue="Kotlin.Demo01Kt" />
-        <item itemvalue="Gradle.Learn [clean]" />
-        <item itemvalue="Kotlin.AppRunKt" />
       </list>
     </recent_temporary>
   </component>
