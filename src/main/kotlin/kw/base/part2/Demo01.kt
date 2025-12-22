@@ -4,8 +4,8 @@ fun main() {
 //    语句
     var a1 :Int = 10
     var a2 : Int
-
-
+    println(a1)
+ 
 
     val score = 60
     val result = if (score > 100)  "good" else "rbs"

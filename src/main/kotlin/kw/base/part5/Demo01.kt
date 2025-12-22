@@ -1,5 +1,7 @@
 package kw.base.part5
 
+import java.io.File
+
 /**
  * 匿名函数可以定制一些规则
  */
@@ -63,18 +65,46 @@ fun main() {
 
 
 
+}
 
 
+fun showBorad(name:String,gg:(String,Int)->String){
+    println(gg("xx",9))
+}
 
+fun run(){
+    val xx = { name:String,age:Int ->
+        "$name $age"
+    }
+    showBorad("xx",xx)
+}
 
+fun showBorad1(name:String,ud:(name:String,age:Int)->String){
+    println(ud)
+}
 
+fun run1(){
+    showBorad1("xx"){
+        name, age -> ""
+    }
+}
 
+fun fileOption(){
+    var file = File("").apply {
+        setReadable(true)
 
+    }
+}
 
+fun letuse(){
+    //第一个元素是1  将1传递吃传递给lambda
+    listOf(1,2,3,434).first().let {
+        println(it)
 
+        it * it  //将最后一行返回
+    }
 
-
-
-
-
+    var name = ""
+    name?.let { "" } ?: ""
+//    ?: → 如果左边为 null，就使用右边的值。
 }
