@@ -1,5 +1,42 @@
 package kw.base.part4
 
+private fun test():Int{
+    return 0
+}
+
+//不对  不写默认是unit
+//private fun test3(){
+//    return 0;
+//}
+
+private fun test1(){
+
+}
+
+private fun test2():Unit{
+
+}
+
+private fun test4(vararg age:Int){
+    for (i in age) {
+        println(i)
+    }
+}
+
+//表达式函数
+fun test5(){
+    println("xxx")
+}
+
+//表达式
+fun test6() = println("xxx")
+
+//不对
+//fun test7(vararg age:Int) = for(i in age){println(i)}
+
+var test8:(ag:Int) -> String ={"chem"}
+
+
 fun method1(){
 //    仅限于方法一内部
     fun method2(){
