@@ -1,7 +1,7 @@
 package kw.base.part7
 
 fun main() {
-    create()
+    println(create())
 //    compare1()
 //    compare2()
 }
@@ -40,13 +40,15 @@ fun compare2() {
     println(str2.equals(str3)) //比较内容
     println(str2 == str3) //比较内容
     println(str2 === str3) //比较地址
-
 }
 
+/**
+ * .
+ */
 private fun compare1() {
     var str2 = "kw"
     var str3 = "kw"
     println(str2.equals(str3)) //比较内容
-    println(str2 == str3) //比较内容
+    println(str2 == str3) //比较内容         结构相等（内容相等） 👉 本质是调用 equals()
     println(str2 === str3) //比较地址
 }

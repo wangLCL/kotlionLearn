@@ -36,6 +36,14 @@ fun test6() = println("xxx")
 
 var test8:(ag:Int) -> String ={"chem"}
 
+var test9:(varargx:Int)->String = {
+    println(it)
+    ""
+}
+
+fun  main1(){
+    test9(1)
+}
 
 fun method1(){
 //    仅限于方法一内部

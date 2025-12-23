@@ -10,6 +10,13 @@ fun main() {
     var count = str.count()
     println(count)
 
+    //括号
+    str.count ({ it == 's' })
+    //省略括号
+    str.count {it == 's'}
+    //最后一个是lambda， 可以写在外面
+    str.count(){it == 's'}
+
 //    次类型的函数作为函数的参数
 //    public inline fun CharSequence.count(predicate: (Char) -> Boolean): Int {
 //        var count = 0
@@ -21,7 +28,6 @@ fun main() {
      * 实质就是使用匿名函数   函数的作用是传入一个char 返回一个boolean
      */
     fun xx(c:Char):Boolean{
-
         if (str.contains(c)) {
             return true;
         }

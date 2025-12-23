@@ -3,9 +3,9 @@ package org.example.kw.part7
 fun main() {
     var chars = charArrayOf('a','b','c')
     var s1 = String(chars)
+    //从第几位开始    数几位
     var s2 = String(chars,1,2)
     println(s1+"   "+s2)
-
 
     val age = 18
     val str = "age ${age}"
@@ -14,8 +14,6 @@ fun main() {
     val addr = "北京西城"
     var indexOf = addr.indexOf("西安", 0, false)
     println(indexOf)
-
-
 
     val sourceStr="Thereisastringaccessingexample."
     val len=sourceStr.length//获得字符串长度

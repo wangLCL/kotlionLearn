@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5ef85f9-0000-4c84-8f39-4a2dea88e560" name="更改" comment="save">
+    <list default="true" id="d5ef85f9-0000-4c84-8f39-4a2dea88e560" name="更改" comment="x">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/basedoc/3.第三章 条件语句.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/3.第三章 条件语句.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/basedoc/4.第四章 函数.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/4.第四章 函数.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/base/part4/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part4/App.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/base/part5/Demo01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part5/Demo01.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/base/part7/CreateString.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part7/CreateString.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/base/part7/Demo01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part7/Demo01.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,31 +67,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.Build kotlionLearn.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.AppKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.CatAnimalKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Demo01Kt (1).executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Demo01Kt (2).executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Demo01Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Demo02Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Demo03Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.DemoApp1Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.ListDemoKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.StudentClassKt.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/java/kotlionLearn&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;问题&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build kotlionLearn.executor": "Run",
+    "Kotlin.AppKt.executor": "Run",
+    "Kotlin.CatAnimalKt.executor": "Run",
+    "Kotlin.CreateStringKt.executor": "Run",
+    "Kotlin.Demo01Kt (1).executor": "Run",
+    "Kotlin.Demo01Kt (2).executor": "Run",
+    "Kotlin.Demo01Kt.executor": "Run",
+    "Kotlin.Demo02Kt.executor": "Run",
+    "Kotlin.Demo03Kt.executor": "Run",
+    "Kotlin.DemoApp1Kt.executor": "Run",
+    "Kotlin.ListDemoKt.executor": "Run",
+    "Kotlin.StudentClassKt.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/java/kotlionLearn",
+    "project.structure.last.edited": "问题",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\kotlionLearn\kotlionLearn\Learn\src\main\kotlin\kw\base\part29\extendm" />
@@ -98,9 +104,9 @@
       <command value="gradle clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Demo03Kt">
-    <configuration name="Demo01Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.kw.part2.Demo01Kt" />
+  <component name="RunManager" selected="Kotlin.Demo02Kt">
+    <configuration name="CreateStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kw.base.part7.CreateStringKt" />
       <module name="kotlionLearn.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -113,6 +119,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo01Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.kw.part7.Demo01Kt" />
+      <module name="kotlionLearn.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo02Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kw.part7.Demo02Kt" />
+      <module name="kotlionLearn.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Demo03Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kw.base.part3.Demo03Kt" />
       <module name="kotlionLearn.main" />
@@ -120,34 +140,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoApp1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.kw.part1.DemoApp1Kt" />
-      <module name="kotlionLearn.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kw.base.part31.StudentKt" />
-      <module name="kotlionLearn.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Kotlin.CreateStringKt" />
+      <item itemvalue="Kotlin.Demo01Kt" />
+      <item itemvalue="Kotlin.Demo02Kt" />
       <item itemvalue="Kotlin.Demo01Kt (2)" />
       <item itemvalue="Kotlin.Demo03Kt" />
-      <item itemvalue="Kotlin.DemoApp1Kt" />
-      <item itemvalue="Kotlin.Demo01Kt (1)" />
-      <item itemvalue="Kotlin.StudentKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Demo02Kt" />
+        <item itemvalue="Kotlin.Demo01Kt" />
+        <item itemvalue="Kotlin.CreateStringKt" />
         <item itemvalue="Kotlin.Demo03Kt" />
         <item itemvalue="Kotlin.Demo01Kt (2)" />
-        <item itemvalue="Kotlin.DemoApp1Kt" />
-        <item itemvalue="Kotlin.Demo01Kt (1)" />
-        <item itemvalue="Kotlin.StudentKt" />
       </list>
     </recent_temporary>
   </component>
@@ -255,7 +261,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766415479902</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="x">
+      <option name="closed" value="true" />
+      <created>1766450984169</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1766450984169</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -276,7 +290,8 @@
     <MESSAGE value="扩展" />
     <MESSAGE value="保存" />
     <MESSAGE value="save" />
-    <option name="LAST_COMMIT_MESSAGE" value="save" />
+    <MESSAGE value="x" />
+    <option name="LAST_COMMIT_MESSAGE" value="x" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
