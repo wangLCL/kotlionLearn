@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5ef85f9-0000-4c84-8f39-4a2dea88e560" name="更改" comment="x">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/basedoc/3.第三章 条件语句.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/3.第三章 条件语句.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/basedoc/4.第四章 函数.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/basedoc/4.第四章 函数.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/base/part4/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part4/App.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/base/part5/Demo01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part5/Demo01.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/base/part7/CreateString.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part7/CreateString.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kw/base/part7/Demo01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kw/base/part7/Demo01.kt" afterDir="false" />
-    </list>
+    <list default="true" id="d5ef85f9-0000-4c84-8f39-4a2dea88e560" name="更改" comment="x" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -269,7 +261,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766450984169</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="x">
+      <option name="closed" value="true" />
+      <created>1766504555062</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1766504555062</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
