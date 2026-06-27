@@ -1,20 +1,19 @@
 package org.example.kw.ful2
 
 fun add(a:Double,b:Double):Double{
-    return a
+    return a + b
 }
 
 fun minus(a:Double,b:Double):Double{
-    return a
+    return a - b
 }
-
-
 
 fun main() {
     val addCal:(Double,Double)->Double = ::add
     println(addCal(1.0,3.0))
 
     val minusCal:(Double,Double)->Double=::minus
+    println(minusCal(1.0,3.0))
 
     var result:(Double,Double)->Double = ::add
     result(3.0,4.0)
